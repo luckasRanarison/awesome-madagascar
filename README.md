@@ -11,10 +11,8 @@ A curated list of Madagascar related projects.
 
 ## Contents
 
-- [Awesome Madagascar ](#awesome-madagascar-)
-  - [Contents](#contents)
-  - [Cartography](#cartography)
-  - [Fun](#fun)
+- [Cartography](#cartography)
+- [Fun](#fun)
 
 ## Cartography
 
