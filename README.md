@@ -11,8 +11,14 @@ A curated list of Madagascar related projects.
 
 ## Contents
 
-- [Cartography](#cartography)
+- [Awesome Madagascar ](#awesome-madagascar-)
+  - [Contents](#contents)
+  - [Cartography](#cartography)
+  - [Fun](#fun)
 
 ## Cartography
 
 - [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - A list of regions, municipalities, districts, and towns in Madagascar.
+
+## Fun
+- [rasolofonirina/quotes-gasy](https://github.com/rasolofonirina/quotes-gasy) - A list of famous (or not) quotes from various authors.
