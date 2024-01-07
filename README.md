@@ -15,4 +15,4 @@ A curated list of Madagascar related projects.
 
 ## Cartography
 
-- [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - A list of regions, communes, and fokontany in Madagascar.
+- [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - A list of regions, municipalities, districts, and towns in Madagascar.
