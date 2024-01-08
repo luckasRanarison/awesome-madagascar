@@ -12,13 +12,18 @@ A curated list of Madagascar related projects.
 ## Contents
 
 - [Cartography](#cartography)
+- [Demography](#demography)
 - [Fun](#fun)
 
 ## Cartography
 
 - [julkwel/madagascar-map](https://github.com/julkwel/madagascar-map) - A list of regions, municipalities, districts, and towns in Madagascar.
+- [tsirysndr/mada](https://github.com/tsirysndr/mada) - Search for regions, districts, communes and fokontany right from your terminal.
+
+## Demography
+
+- [tsirysndr/top-mg-github-users](https://github.com/tsirysndr/top-mg-github-users) - A list of GitHub users in Madagascar.
 
 ## Fun
 - [rasolofonirina/quotes-gasy](https://github.com/rasolofonirina/quotes-gasy) - A list of famous (or not) quotes from various authors.
-<!--lint ignore double-link-->
 - [tokyRT/Gasy-quotes-explorer](https://github.com/tokyRT/Gasy-quotes-explorer) - A web UI for rasolofonirina/quotes-gasy's repository.
