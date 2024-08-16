@@ -21,6 +21,7 @@ A curated list of Madagascar related projects.
 - [tsirysndr/mada](https://github.com/tsirysndr/mada) - Search for regions, districts, communes and fokontany right from your terminal.
 - [puchka/BetaX-Community](https://github.com/puchka/BetaX-Community) - This repository contains the scripts and the results we got when using way points to generate the path followed by buses in the urban area of Antanarivo.
 - [ghislainv/deforestation-maps-Mada](https://github.com/ghislainv/deforestation-maps-Mada) - Sixty years of deforestation and forest fragmentation in Madagascar.
+- [nralibera/madagascar_is_not_only_a_movie](https://github.com/nralibera/madagascar_is_not_only_a_movie) - An interactive map of Madagascar.
 
 ## Demography
 
