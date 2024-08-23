@@ -9,5 +9,5 @@ First of all, thanks for taking the time to contribute to this project!
 
 ## Submitting pull requests
 
-- Use the provided pull request template.
+- Use the provided [pull request template](.github/pull_request_template.md).
 - Make sure your changes pass `awesome-lint`.
