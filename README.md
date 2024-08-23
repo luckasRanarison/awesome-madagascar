@@ -14,6 +14,7 @@ A curated list of Madagascar related projects.
 - [Cartography](#cartography)
 - [Demography](#demography)
 - [Fun](#fun)
+- [Language](#language)
 
 ## Cartography
 
@@ -30,3 +31,6 @@ A curated list of Madagascar related projects.
 ## Fun
 - [rasolofonirina/quotes-gasy](https://github.com/rasolofonirina/quotes-gasy) - A list of famous (or not) quotes from various authors.
 - [tokyRT/Gasy-quotes-explorer](https://github.com/tokyRT/Gasy-quotes-explorer) - A web UI for rasolofonirina/quotes-gasy's repository.
+
+## Language
+- [SetraC4Ci/Gasy-Corpus-Crawler](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) - A collection of python scripts for scraping malagasy websites.
