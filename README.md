@@ -33,4 +33,4 @@ A curated list of Madagascar related projects.
 - [tokyRT/Gasy-quotes-explorer](https://github.com/tokyRT/Gasy-quotes-explorer) - A web UI for rasolofonirina/quotes-gasy's repository.
 
 ## Language
-- [SetraC4Ci/Gasy-Corpus-Crawler](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) - A python script for scraping malagasy language websites.
+- [SetraC4Ci/Gasy-Corpus-Crawler](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) - A collection of python scripts for scraping malagasy websites.
