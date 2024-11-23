@@ -13,6 +13,7 @@ A curated list of Madagascar related projects.
 
 - [Cartography](#cartography)
 - [Demography](#demography)
+- [Development](#development)
 - [Fun](#fun)
 - [Language](#language)
 
@@ -27,6 +28,9 @@ A curated list of Madagascar related projects.
 ## Demography
 
 - [tsirysndr/top-mg-github-users](https://github.com/tsirysndr/top-mg-github-users) - A list of GitHub users in Madagascar.
+
+## Development
+- [Ryuka25/flashy](https://github.com/Ryuka25/flashy) - Tool to help developers memorize and master essential keyboard shortcuts for their primary IDE, boosting productivity and workflow efficiency.
 
 ## Fun
 - [rasolofonirina/quotes-gasy](https://github.com/rasolofonirina/quotes-gasy) - A list of famous (or not) quotes from various authors.
