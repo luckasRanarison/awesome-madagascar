@@ -29,9 +29,12 @@ A curated list of Madagascar related projects.
 - [tsirysndr/top-mg-github-users](https://github.com/tsirysndr/top-mg-github-users) - A list of GitHub users in Madagascar.
 
 ## Fun
+
+- [giretra/giretra](https://github.com/giretra/giretra) - A digital implementation of the traditional Malagasy Belote card game with online multiplayer and a bot framework.
 - [rasolofonirina/quotes-gasy](https://github.com/rasolofonirina/quotes-gasy) - A list of famous (or not) quotes from various authors.
 - [tokyRT/Gasy-quotes-explorer](https://github.com/tokyRT/Gasy-quotes-explorer) - A web UI for rasolofonirina/quotes-gasy's repository.
 
 ## Language
+
 - [SetraC4Ci/Gasy-Corpus-Crawler](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) - A collection of python scripts for scraping malagasy websites.
 - [HarimbolaSantatra/mm-cli](https://github.com/HarimbolaSantatra/mm-cli) - Malagasy Encyclopedia and Dictionary on the command line.
